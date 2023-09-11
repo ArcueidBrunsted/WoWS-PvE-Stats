@@ -3,7 +3,7 @@
 # Enter your teammates' nickname and the program will show his stats
 # Stats retrieved from WarGaming API
 # Please do not use the result for stats shaming
-# Author: Jiayi Qin
+# Author: Jason Qin
 # Date: 9/9/2023
 # Version: 0.1.0
 
